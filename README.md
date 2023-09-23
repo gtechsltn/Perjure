@@ -2,9 +2,9 @@
 
 [![Build status](https://coshea.visualstudio.com/Perjure/_apis/build/status/Perjure)](https://coshea.visualstudio.com/Perjure/_build/latest?definitionId=-1)
 
-Perjure is a small, light-weight console application that allows you to purge folders after
-the number of days you define. Perjure works well with job schedulers that run the program
-at fixed intervals.
++ Perjure is a small, light-weight console application that allows you to purge folders after the number of days you define. Perjure works well with job schedulers that run the program at fixed intervals.
+
++ **Perjure** là một ứng dụng bảng điều khiển nhỏ, nhẹ cho phép bạn xóa các thư mục sau số ngày bạn xác định. Perjure hoạt động tốt với các trình lập lịch công việc chạy chương trình theo những khoảng thời gian cố định.
 
 ## Installation
 
